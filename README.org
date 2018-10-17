@@ -1,0 +1,63 @@
+#+title: Agenda Tech Ext
+
+Ce dépôt contient la liste des événements « tech » qui pourraient
+intéresser des personnes d'Etalab.
+
+Vous pouvez vous abonner à cet agenda public [[https://owncloud.data.gouv.fr/index.php/apps/calendar/p/xdQa4Z8ZfaTryQt4/agenda-tech-ext][en ligne]] ou le suivre
+[[https://etalab.github.io/agenda-tech-ext/][comme un blog]].
+
+* Comment ajouter un événement ?
+
+Pour ajouter un événement, éditez le fichier =index.org=, pas le fichier
+=index.md=.  Chaque événement comporte ces éléments :
+
+- Titre
+- Une information de date de d’heure via =SCHEDULED=
+- Une propriété de =LOCATION= pour indiquer le lieu
+- Une description libre
+
+Par exemple :
+
+: * Le titre de l’événement
+:   SCHEDULED: <2018-04-12 jeu. 09:15>
+:   :PROPERTIES:
+:   :LOCATION: 40 rue de la Victoire 75009 Paris
+:   :END:
+: 
+: Une description libre avec *du gras* et de /l'italique/.
+
+Le groupe =:PROPERTIES:...:END:= peut contenir un identifiant =:ID:= -
+celui-ci est généré /automatiquement/ au moment de la publication de
+l’agenda sur =cloud.eig-forever.org=.
+
+Le fichier =index.md= est généré automatiquement à partir du fichier
+=index.org=.
+
+* Maintenance
+
+Ce projet est maintenu par Bastien Guerry.
+
+Pour toute question : =bastien.guerry@data.gouv.fr=
+
+* Contribution
+
+Ce dépôt est ouvert aux contributions - vous pouvez :
+
+- poser une question sur le contenu en ouvrant une issue ;
+
+- /forker/ le dépôt et envoyer des /pull request/ avec des propositions
+  d'amélioration ;
+
+Merci !
+
+* Licence
+
+© 2018 Direction interministérielle du numérique et du système
+d'information et de communication de l'État
+
+© 2018 Les contributeurs accessibles via l'historique du dépôt.
+
+Les contenus accessibles dans ce dépôt sont placés sous Licence
+Ouverte 2.0 -- voir le fichier =LO.md= dans ce répertoire.  Vous êtes
+libre de réutiliser les contenus de ce dépôt sous les conditions
+précisées dans cette licence.

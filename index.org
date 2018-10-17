@@ -1,0 +1,20 @@
+Vous pouvez vous abonner à cet agenda public [[https://owncloud.data.gouv.fr/index.php/apps/calendar/p/YAjeWZjoGFgs2dLp/agenda-tech-ext][en ligne]].
+
+* Conférence PyParis
+  :PROPERTIES:
+  :LOCATION: EPITA, Paris / Le Kremlin Bicêtre, France
+  :ID:       707396dd-6d61-4f0c-b69b-c821d819e29f
+  :END:
+  <2018-11-14 mer.>-<2018-11-15 jeu.>
+
+A conference for developers and users of Python
+
+The PyParis conference is a gathering of users and developers of the
+Python programming language.
+
+The goals are to provide Python enthusiasts a place to share ideas and
+learn from each other about how best to apply the language and tools
+to ever-evolving challenges in the vast realm of application
+development, scientific computing, data analytics, education, cloud,
+devops...
+
