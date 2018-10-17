@@ -1,9 +1,11 @@
 Vous pouvez vous abonner à cet agenda public [en ligne](https://owncloud.data.gouv.fr/index.php/apps/calendar/p/YAjeWZjoGFgs2dLp/agenda-tech-ext).
 
 
-# Conférence PyParis
+# Conférence PyParis - <http://pyparis.org>
 
 <span class="timestamp-wrapper"><span class="timestamp">&lt;2018-11-14 mer.&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-11-15 jeu.&gt;</span></span>
+
+<http://pyparis.org>
 
 A conference for developers and users of Python
 

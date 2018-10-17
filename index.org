@@ -1,11 +1,13 @@
 Vous pouvez vous abonner à cet agenda public [[https://owncloud.data.gouv.fr/index.php/apps/calendar/p/YAjeWZjoGFgs2dLp/agenda-tech-ext][en ligne]].
 
-* Conférence PyParis
+* Conférence PyParis - http://pyparis.org
   :PROPERTIES:
   :LOCATION: EPITA, Paris / Le Kremlin Bicêtre, France
   :ID:       707396dd-6d61-4f0c-b69b-c821d819e29f
   :END:
   <2018-11-14 mer.>-<2018-11-15 jeu.>
+
+http://pyparis.org
 
 A conference for developers and users of Python
 
