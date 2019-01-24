@@ -1,5 +1,21 @@
 Vous pouvez vous abonner à cet agenda public [[https://owncloud.data.gouv.fr/index.php/apps/calendar/p/YAjeWZjoGFgs2dLp/agenda-tech-ext][en ligne]].
 
+* Conférence SATRDAY - https://paris2019.satrdays.org/
+  SCHEDULED: <2019-02-23 sam. 09:00-17:30>
+  :PROPERTIES:
+  :LOCATION: AgroParisTech
+  :END:
+
+https://paris2019.satrdays.org/
+
+SatRDays are community-led, regional conferences to support
+collaboration, networking and innovation within the R community.
+
+satRday Paris 2019 will be held on Saturday February 23th 2019 from
+09.00 to 17.30.
+
+This event will take place at AgroParisTech.
+
 * Conférence PyParis - http://pyparis.org
   :PROPERTIES:
   :LOCATION: EPITA, Paris / Le Kremlin Bicêtre, France
