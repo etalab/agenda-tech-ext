@@ -4,6 +4,7 @@ Vous pouvez vous abonner à cet agenda public [[https://owncloud.data.gouv.fr/in
   SCHEDULED: <2019-02-23 sam. 09:00-17:30>
   :PROPERTIES:
   :LOCATION: AgroParisTech
+  :ID:       c334f5d4-5dbf-4248-be26-5aae4523e145
   :END:
 
 https://paris2019.satrdays.org/
