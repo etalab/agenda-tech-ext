@@ -1,5 +1,17 @@
 Vous pouvez vous abonner à cet agenda public [[https://owncloud.data.gouv.fr/index.php/apps/calendar/p/YAjeWZjoGFgs2dLp/agenda-tech-ext][en ligne]].
 
+* FOSDEM - https://fosdem.org/2019/
+  :PROPERTIES:
+  :ID:       c457dfc5-3475-490f-a7bf-830c31ecb06b
+  :END:
+  <2019-02-02 sam.>-<2019-02-03 dim.>
+
+FOSDEM is a free event for software developers to meet, share ideas
+and collaborate.
+
+Every year, thousands of developers of free and open source software
+from all over the world gather at the event in Brussels.
+
 * Conférence SATRDAY - https://paris2019.satrdays.org/
   SCHEDULED: <2019-02-23 sam. 09:00-17:30>
   :PROPERTIES:
